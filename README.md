@@ -78,9 +78,8 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [INFERCEPT: Efficient Intercept Support for Augmented Large Language Model Inference](https://arxiv.org/pdf/2402.01869) (Required) |      | 
 |         | [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) (Background)
 | Nov 6   | **Invited talks (TBA)**
-|         | TBA  | [Haoran Qiu](https://haoran-qiu.com/)
-|         | TBA  | [Jiarong Xing](https://jxing.me/)
-
+|         | TBA  | [Haoran Qiu](https://haoran-qiu.com/)|
+|         | TBA  | [Jiarong Xing](https://jxing.me/)|
 | Nov 13  | **Serving with Retrieval-Augmented Generation**
 |         | [Prompt Cache: Modular Attention Reuse for Low-Latency Inference](https://arxiv.org/pdf/2311.04934) (Required)     |     |           
 |         | [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.12457) (Required) |  |  
