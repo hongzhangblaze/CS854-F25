@@ -34,6 +34,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) 
 |         | [How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) 
 |         | [Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+|         | [How to Write a Great Research Paper](https://simon.peytonjones.org/great-research-paper/)
 |         | [LLM Inference Serving: Survey of Recent Advances and Opportunities](https://arxiv.org/pdf/2407.12391)
 |         | [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/pdf/2312.15234)   
 |         | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2, optional)
