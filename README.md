@@ -156,11 +156,13 @@ Your goal is to engage in a constructive critique of the paper, simulating a pee
 
 #### Timeline for in-class presentation and review 
 Presentation starts from **Week 3**
+
 **By Week 2 (Sept. 11th)**: 
 * Email me your presentation/review preferences
 * Volunteering for presenters and reviewers on Week 3 **with a bonus**
+  
 **After Week 2:**
-* Presenters and reviewers **will be assigned **
+* Presenters and reviewers **will be assigned**
 
 
 
