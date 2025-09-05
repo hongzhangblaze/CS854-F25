@@ -46,8 +46,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/system/files/osdi20-gujarati.pdf) (Required) |Hong
 |         | [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf) (Required) |Hong
 | Sept 18 | **Memory Management**
-|         | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | 
-Liam Hebert  |  Sejal Agarwal 
+|         | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | Liam Hebert  |  Sejal Agarwal 
 |         | [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437) (Optional) |  | 
 |         | [KunServe: Efficient Parameter-centric Memory Management for LLM Serving](https://arxiv.org/abs/2412.18169) (Required) |  | 
 |         | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html) (Required) | |
