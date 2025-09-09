@@ -48,7 +48,7 @@ We will read recent papers to understand trends and important topics in serving 
 | Sept 18 | **Memory Management**
 |         | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) (Required) | Liam Hebert  |  Sejal Agarwal 
 |         | [vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention](https://arxiv.org/abs/2405.04437) (Optional) |  | 
-|         | [KunServe: Efficient Parameter-centric Memory Management for LLM Serving](https://arxiv.org/abs/2412.18169) (Required) |  | 
+|         | [KunServe: Efficient Parameter-centric Memory Management for LLM Serving](https://arxiv.org/abs/2412.18169) (Required) | Liliana Hotsko  | Xiangrui Ke
 |         | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html) (Required) | Hongxu Xu | Samiha Shafiq Anuva
 |         | [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514) (optional)
 | Sep 25  | **Prefill _vs._ Decode**
@@ -65,7 +65,7 @@ We will read recent papers to understand trends and important topics in serving 
 | Oct 9   | **Scheduling**
 |         | [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) (Required)        |  Sreeharsha Udayashankar |  Gavin Deane
 |         | [Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline](https://arxiv.org/pdf/2305.13144) (Optional)     
-|         | [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/sun-biao) (Required)  |    |   
+|         | [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/sun-biao) (Required)  |    |  Liliana Hotsko
 |         | [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/pdf/2404.16283) (Required)  | Sejal Agarwal    |  
 |         | [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference](https://dl.acm.org/doi/pdf/10.1145/3620665.3640383)(Optional)
 |         | [Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving](https://arxiv.org/pdf/2405.06856) (Optional)
