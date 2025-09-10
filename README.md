@@ -52,7 +52,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://proceedings.mlr.press/v202/sheng23a.html) (Required) | Hongxu Xu | Samiha Shafiq Anuva
 |         | [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514) (optional)
 | Sep 25  | **Prefill _vs._ Decode**
-|         | [Distserve: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)  (required)  |  | Hongxu Xu
+|         | [Distserve: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)  (required)  | Henry Guo  | Hongxu Xu
 |         | [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/pdf/2311.18677) (Optional)
 |         | [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/pdf/2308.16369) (Optional)   
 |         | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/pdf/2403.02310) (Required)   | Yonas Atinafu |  
@@ -61,7 +61,7 @@ We will read recent papers to understand trends and important topics in serving 
 | Oct 2   | **Parallelism**
 |         | [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/system/files/osdi23-li-zhuohan.pdf) (Required)  |  Yonas Atinafu  | 
 |         | [Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference](https://dl.acm.org/doi/abs/10.1145/3627535.3638466) (Required)     |   | 
-|         | [LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism](https://arxiv.org/pdf/2404.09526) (Required)    |   | 
+|         | [LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism](https://arxiv.org/pdf/2404.09526) (Required)    | Xiangrui Ke   | 
 | Oct 9   | **Scheduling**
 |         | [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) (Required)        |  Sreeharsha Udayashankar |  Gavin Deane
 |         | [Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline](https://arxiv.org/pdf/2305.13144) (Optional)     
@@ -73,7 +73,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification](https://dl.acm.org/doi/10.1145/3620666.3651335) (Required) | Xintong Zhou | Nour Jedidi
 |         | [Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://arxiv.org/pdf/2402.02057) (Optional) 
 | Oct  30  | **Compound AI Systems**
-|         | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf) (Required)   |Hosna Oyarhoseini  |  
+|         | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf) (Required)   |Hosna Oyarhoseini  |  Henry Guo
 |         | [Teola: Towards End-to-End Optimization of LLM-based Applications](https://arxiv.org/abs/2407.00326) (Required)     |       | Tales Paiva
 |         | [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311) + [Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](https://arxiv.org/pdf/2406.00059) (Optional)
 |         | [INFERCEPT: Efficient Intercept Support for Augmented Large Language Model Inference](https://arxiv.org/pdf/2402.01869) (Required) |      | Taebin Kim
@@ -89,7 +89,7 @@ We will read recent papers to understand trends and important topics in serving 
 | Nov 20  | **Serving in the Wild**
 |         | [SpotServe: Serving Generative Large Language Models on Preemptible Instances](https://arxiv.org/pdf/2311.15566) (Optional)
 |         | [ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models](https://arxiv.org/pdf/2401.14351)  (Required) |   | 
-|         | [M´elange: Cost Efficient Large Language Model Serving by Exploiting GPU Heterogeneity](https://arxiv.org/pdf/2404.14527) (Optional) 
+|         | [M´elange: Cost-Efficient Large Language Model Serving by Exploiting GPU Heterogeneity](https://arxiv.org/pdf/2404.14527) (Optional) 
 |         | [Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs](https://arxiv.org/pdf/2406.01566) (Optional)
 |         | [Stateful Large Language Model Serving with Pensieve](https://arxiv.org/pdf/2312.05516) (Optional)
 |         | **Other Important Topics (Cache management, Multi-tenancy, MoE, Fairness, Serving Simulator Design, etc.)**
