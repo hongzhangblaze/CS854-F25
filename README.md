@@ -40,7 +40,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [The Datacenter as a Computer](https://link.springer.com/book/10.1007/978-3-031-01761-2) (Chapters 1 and 2, optional)
 |         | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) (optional)
 | Sept 11 | **Serving Systems for GenAI _vs._ Serving Systems for traditional DNN** 
-|         | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  Xiaodian Cheng
+|         | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) (Required) |  Xiaodian Cheng ([slide](https://drive.google.com/file/d/1d3kYvn3GSf1RF7nqTdNyAZevjvAo6AXq/view?usp=sharing))
 |         | [The Illustrated GPT2](https://jalammar.github.io/illustrated-gpt2/) (optional)
 |         | [Attention is All You Need](https://dl.acm.org/doi/10.5555/3295222.3295349) (optional)
 |         | [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/system/files/osdi20-gujarati.pdf) (Required) |Hong
