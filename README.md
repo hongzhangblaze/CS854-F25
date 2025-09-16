@@ -84,7 +84,7 @@ We will read recent papers to understand trends and important topics in serving 
 | Nov 13  | **Serving with Retrieval-Augmented Generation and KV Cache Sharing**
 |         | [Prompt Cache: Modular Attention Reuse for Low-Latency Inference](https://arxiv.org/pdf/2311.04934) (Required)     |   Anudeep Das, Basit Ali   |  Sreeharsha Udayashankar, Xiang Li          
 |         | [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.12457) (Optional) |  |  
-|         | [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444) (Required) | Nour Jedidi, Dunyang Ni  |  Henry Tian
+|         | [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444) (Required) | Nour Jedidi, Dunyang Ni  |  Henry Tian, Joe Zou
 |         | [DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving](https://arxiv.org/pdf/2411.02820) (Required) | Tales Paiva | Joshua Caiata 
 | Nov 20  | **Serving in the Wild**
 |         | [SpotServe: Serving Generative Large Language Models on Preemptible Instances](https://arxiv.org/pdf/2311.15566) (Optional)
