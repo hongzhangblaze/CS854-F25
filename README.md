@@ -73,7 +73,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification](https://dl.acm.org/doi/10.1145/3620666.3651335) (Required) | Xintong Zhou, Yaseen Sherif Gamaleldin Ahmed  | Nour Jedidi, Xuliang Wang
 |         | [Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://arxiv.org/pdf/2402.02057) (Optional) 
 | Oct  30  | **Compound AI Systems**
-|         | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf) (Required)   |Hosna Oyarhoseini  |  Henry Guo, Cara Ji
+|         | [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf) (Required)   |Hosna Oyarhoseini, Xiang Li |  Henry Guo, Cara Ji
 |         | [Teola: Towards End-to-End Optimization of LLM-based Applications](https://arxiv.org/abs/2407.00326) (Required)     |   Jack Ma, Xuliang Wang    | Tales Paiva
 |         | [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311) + [Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](https://arxiv.org/pdf/2406.00059) (Optional)
 |         | [INFERCEPT: Efficient Intercept Support for Augmented Large Language Model Inference](https://arxiv.org/pdf/2402.01869) (Required) | Henry Tian    | Taebin Kim
@@ -82,7 +82,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | Multimodal Model Serving at Azure Clusters  | [Haoran Qiu](https://haoran-qiu.com/)|
 |         | TBA  | [Jiarong Xing](https://jxing.me/)|
 | Nov 13  | **Serving with Retrieval-Augmented Generation and KV Cache Sharing**
-|         | [Prompt Cache: Modular Attention Reuse for Low-Latency Inference](https://arxiv.org/pdf/2311.04934) (Required)     |   Anudeep Das, Basit Ali   |  Sreeharsha Udayashankar         
+|         | [Prompt Cache: Modular Attention Reuse for Low-Latency Inference](https://arxiv.org/pdf/2311.04934) (Required)     |   Anudeep Das, Basit Ali   |  Sreeharsha Udayashankar, Xiang Li          
 |         | [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.12457) (Optional) |  |  
 |         | [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444) (Required) | Nour Jedidi, Dunyang Ni  |  Henry Tian
 |         | [DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving](https://arxiv.org/pdf/2411.02820) (Required) | Tales Paiva | Joshua Caiata 
