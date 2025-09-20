@@ -56,7 +56,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [Splitwise: Efficient generative LLM inference using phase splitting](https://arxiv.org/pdf/2311.18677) (Optional)
 |         | [SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills](https://arxiv.org/pdf/2308.16369) (Optional)   
 |         | [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/pdf/2403.02310) (Required)   | Yonas Atinafu |  Henry Lin, Basit Ali 
-|         | [PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications](https://arxiv.org/abs/2505.07203) (Required)   | Gavin Deane, Sejal Agarwal |  Michael Lapshin
+|         | [PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications](https://arxiv.org/abs/2505.07203) (Required)   | Gavin Deane, Sejal Agarwal |  Michael Lapshin, Maksym Bidnyi
 |         | [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/pdf/2407.00079) (Optional)
 | Oct 2   | **Parallelism**
 |         | [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://www.usenix.org/system/files/osdi23-li-zhuohan.pdf) (Required)  |  Michael Lapshin, Anurag Chakraborty  | Yonas Atinafu
