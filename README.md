@@ -63,7 +63,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference](https://dl.acm.org/doi/abs/10.1145/3627535.3638466) (Required)     | Kevin Jie  |  Jack Ma, Liam Hebert
 |         | [LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism](https://arxiv.org/pdf/2404.09526) (Required)    | Xiangrui Ke   | Kevin Jie, Dunyang Ni  
 | Oct 9   | **Scheduling**
-|         | [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) (Required)        |  Sreeharsha Udayashankar, Cong Wei |  Gavin Deane
+|         | [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) (Required)        |  Sreeharsha Udayashankar, Cong Wei |  Gavin Deane, Yixuan Wang
 |         | [Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline](https://arxiv.org/pdf/2305.13144) (Optional)     
 |         | [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/sun-biao) (Required)  | Taebin Kim   | Zhiheng LYU, Anurag Chakraborty
 |         | [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/pdf/2404.16283) (Required)  |Henry Lin , Yubo Wang     |  Liliana Hotsko, Hosna Oyarhoseini
