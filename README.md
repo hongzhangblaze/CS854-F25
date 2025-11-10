@@ -82,7 +82,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | Multimodal Model Serving at Azure Clusters  | [Haoran Qiu](https://haoran-qiu.com/)|
 |         | GPU sharing for Multi-LLM Serving  | [Jiarong Xing](https://jxing.me/)|
 | Nov 13  | **Serving with Retrieval-Augmented Generation and KV Cache Sharing**
-|         | [Prompt Cache: Modular Attention Reuse for Low-Latency Inference](https://arxiv.org/pdf/2311.04934) (Required)     |   Anudeep Das, Basit Ali   |  Sreeharsha Udayashankar, Xiang Li          
+|         | [Prompt Cache: Modular Attention Reuse for Low-Latency Inference](https://arxiv.org/pdf/2311.04934) (Required)     |   Anudeep Das, Basit Ali   |  Sreeharsha Udayashankar         
 |         | [RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation](https://arxiv.org/pdf/2404.12457) (Optional) |  |  
 |         | [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444) (Required) | Nour Jedidi, Dunyang Ni  |  Henry Tian, Joe Zou
 |         | [DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving](https://arxiv.org/pdf/2411.02820) (Required) | Tales Paiva | Joshua Caiata 
@@ -93,7 +93,7 @@ We will read recent papers to understand trends and important topics in serving 
 |         | [Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs](https://arxiv.org/pdf/2406.01566) (Optional)
 |         | [Stateful Large Language Model Serving with Pensieve](https://arxiv.org/pdf/2312.05516) (Optional)
 |         | **Other Important Topics (Cache management, Multi-tenancy, MoE, Fairness, Serving Simulator Design, etc.)**
-|         | [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://arxiv.org/pdf/2406.19707) (Required) |  Joshua Caiata, Cara Ji  |  Anudeep Das 
+|         | [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://arxiv.org/pdf/2406.19707) (Required) |  Joshua Caiata, Cara Ji  |  Anudeep Das , Xiang Li 
 |         | [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://arxiv.org/abs/2310.07240) (Optional)
 |         | [Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention](https://arxiv.org/abs/2403.19708) (Optional)
 |         | [Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/abs/2401.02669) (Optional)
